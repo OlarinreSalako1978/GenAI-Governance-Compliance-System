@@ -1,0 +1,20 @@
+Request_4
+
+{
+  "title": "LLM Fine-Tuning for Public Release",
+  "summary": "This project fine-tunes a language model using patient discharge notes, aiming to publish and share it openly.",
+  "project_name": "MedNarrativeGPT",
+  "project_owner": "Dr. Thomas Rivera",
+  "department": "Biomedical Informatics",
+  "use_case": "LLM fine-tuning for open-source release",
+  "data_required": "Real patient discharge notes from Epic",
+  "PHI_status": "Yes (regex-masked only)",
+  "modeling_required": "Yes",
+  "risk_tier": "Tier 1",
+  "publication_intent": "Yes",
+  "SNOMED_ICD_applied": "No",
+  "DUA_attached": "No",
+  "IRB_approval": "No",
+  "registry_logged": "No",
+  "dissemination_form": "No"
+}

@@ -1,0 +1,28 @@
+Subject: APPROVED – AI/Data Project Governance Decision
+
+To: Dr. Amina Yusuf, Medical Education
+CC: Dr. John Doe, Director of AI, AI Center of Excellence
+
+Dear Dr. Yusuf,
+
+Your AI/Data project request titled "GenAI-Based Educational Module Builder" has been reviewed and is APPROVED. The proposal complies with UTSW's governance policy in the following ways:
+
+- The project aligns with institutional and ethical goals, as it uses AI to generate educational content.
+- The data required for the project is de-identified and has received IRB approval, ensuring compliance with HIPAA and PHI standards.
+- The project has a Data Use Agreement (DUA) in place.
+- The project uses SNOMED CT and ICD codes, ensuring correct mapping and data harmonization.
+- The project is logged in the Data Use Registry, ensuring documentation and auditability.
+- The project does not intend to publicly disseminate the data, thus a Public Dissemination Request Form is not required.
+
+Next Steps:
+- Continue collaboration with Dr. John Doe to ensure the AI model is developed and implemented in accordance with UTSW's AI governance policy.
+- Ensure ongoing compliance with the DUA and IRB protocols.
+- Maintain the project log in the Data Use Registry.
+
+Thank you for your attention to compliance.
+
+Sincerely,
+Dr. Tammye Garrett
+Chief Data Officer
+UT Southwestern Medical Center
+AI Center of Excellence

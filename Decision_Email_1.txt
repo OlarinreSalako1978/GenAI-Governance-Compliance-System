@@ -1,0 +1,26 @@
+Subject: APPROVED – AI/Data Project Governance Decision
+
+To: Dr. Emily Zhang, Health Information Management
+CC: Dr. John Doe, Director of AI, AI Center of Excellence
+
+Dear Dr. Zhang,
+
+Your AI/Data project request titled "Internal NLP Summarization Model" has been reviewed and is fully APPROVED. The proposal complies with UTSW's governance policy in the following ways:
+- Risk Tier: Tier 3 – Low Risk (internal NLP tool)
+- SNOMED and ICD-10 standards applied
+- Data Type: Synthetic notes only, no PHI involved
+- No public dissemination planned
+- Project is logged in the Data Use Registry
+
+Next Steps:
+- Work with Dr. John Doe to provision the synthetic dataset.
+- Maintain minimal monitoring as per low-risk classification.
+- Ensure internal code review, logging, and limited access are in place.
+
+Thank you for your attention to compliance.
+
+Sincerely,
+Dr. Tammye Garrett
+Chief Data Officer
+UT Southwestern Medical Center
+AI Center of Excellence

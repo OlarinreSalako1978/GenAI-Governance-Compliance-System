@@ -1,0 +1,20 @@
+Request_2
+
+{
+  "title": "Tumor Classifier for Public Presentation",
+  "summary": "This project involves a CNN classifier trained on lung tumor scans for a planned public conference presentation.",
+  "project_name": "TumorClassifier",
+  "project_owner": "Dr. Ravi Patel",
+  "department": "Radiology",
+  "use_case": "Public conference presentation (CNN tumor classifier)",
+  "data_required": "Histopathological images with PHI",
+  "PHI_status": "Yes",
+  "modeling_required": "Yes",
+  "risk_tier": "Tier 1",
+  "publication_intent": "Yes",
+  "SNOMED_ICD_applied": "No",
+  "DUA_attached": "No",
+  "IRB_approval": "No",
+  "registry_logged": "No",
+  "dissemination_form": "No"
+}

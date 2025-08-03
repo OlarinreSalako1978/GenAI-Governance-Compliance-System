@@ -1,0 +1,20 @@
+Request_5
+
+{
+  "title": "GenAI-Based Educational Module Builder",
+  "summary": "This project generates GenAI-powered educational content from de-identified and IRB-approved EHR cases for LMS delivery.",
+  "project_name": "AI-Powered Curriculum Builder",
+  "project_owner": "Dr. Amina Yusuf",
+  "department": "Medical Education",
+  "use_case": "Generate anonymized modules from de-identified case studies",
+  "data_required": "De-identified and IRB-cleared EHR cases",
+  "PHI_status": "No",
+  "modeling_required": "Yes",
+  "risk_tier": "Tier 2",
+  "publication_intent": "No (internal LMS use only)",
+  "SNOMED_ICD_applied": "Yes",
+  "DUA_attached": "Yes",
+  "IRB_approval": "Yes",
+  "registry_logged": "Yes",
+  "dissemination_form": "Not applicable"
+}

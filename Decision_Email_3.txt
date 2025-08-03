@@ -1,0 +1,26 @@
+Subject: APPROVED – AI/Data Project Governance Decision
+
+To: Dr. Monica Ellis, Health Operations Analytics
+CC: Dr. John Doe, Director of AI, AI Center of Excellence
+
+Dear Dr. Ellis,
+
+Your AI/Data project request titled "UT System Scheduling Optimization" has been reviewed and is APPROVED. The proposal complies with UTSW's governance policy in the following ways:
+- Risk Tier: Tier 2 – Moderate Risk
+- SNOMED and ICD-10 standards applied
+- Data Type: Synthetic only, no PHI involved
+- DUA is attached and logged in the Data Use Registry
+- No public dissemination planned, hence no need for a Public Dissemination Request Form
+
+Next Steps:
+- Continue with the project as planned.
+- Ensure all data sharing activities are logged in the Data Use Registry.
+- Maintain regular monitoring as per moderate-risk classification.
+
+Thank you for your attention to compliance.
+
+Sincerely,
+Dr. Tammye Garrett
+Chief Data Officer
+UT Southwestern Medical Center
+AI Center of Excellence

@@ -1,0 +1,31 @@
+Subject: NOT APPROVED – AI/Data Project Governance Decision
+
+To: Dr. Thomas Rivera, Biomedical Informatics
+CC: Dr. John Doe, Director of AI, AI Center of Excellence
+
+Dear Dr. Rivera,
+
+Following review of your project "LLM Fine-Tuning for Public Release", it is NOT APPROVED due to the following policy violations:
+
+- Use of PHI without IRB approval
+- No Data Use Agreement (DUA) in place
+- Public sharing planned without dissemination review
+- SNOMED CT and ICD coding standards have not been applied
+- The project has not been logged in the Data Use Registry
+
+Next Steps:
+
+- Please work with Dr. John Doe to initiate IRB protocol review
+- Submit a DUA through the governance committee
+- Apply de-identification standards before resubmission
+- Ensure SNOMED CT and ICD coding standards are applied to your dataset
+- Log the project in the Data Use Registry
+- Submit a Public Dissemination Request Form
+
+We look forward to supporting your project once these compliance gaps are addressed.
+
+Sincerely,
+Dr. Tammye Garrett
+Chief Data Officer
+UT Southwestern Medical Center
+AI Center of Excellence

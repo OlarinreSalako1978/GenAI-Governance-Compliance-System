@@ -1,0 +1,31 @@
+Subject: NOT APPROVED – AI/Data Project Governance Decision
+
+To: Dr. Ravi Patel, Radiology Department
+CC: Dr. John Doe, Director of AI, AI Center of Excellence
+
+Dear Dr. Patel,
+
+Following review of your project "Tumor Classifier for Public Presentation", it is NOT APPROVED due to the following policy violations:
+
+- Use of PHI without IRB approval
+- No Data Use Agreement (DUA) in place
+- Public sharing planned without dissemination review
+- No SNOMED CT or ICD-10-CM/PCS coding standards applied
+- Project not logged in the Data Use Registry
+
+Next Steps:
+
+- Please work with Dr. John Doe to initiate IRB protocol review
+- Submit a DUA through the governance committee
+- Apply de-identification standards before resubmission
+- Apply SNOMED CT and ICD-10-CM/PCS coding standards to your dataset
+- Log the project in the Data Use Registry
+- Submit a Public Dissemination Request Form
+
+We look forward to supporting your project once these compliance gaps are addressed.
+
+Sincerely,
+Dr. Tammye Garrett
+Chief Data Officer
+UT Southwestern Medical Center
+AI Center of Excellence

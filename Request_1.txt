@@ -1,0 +1,20 @@
+Request_1
+
+{
+  "title": "Internal NLP Summarization Model",
+  "summary": "This project uses synthetic notes to train an NLP summarizer intended for internal use.",
+  "project_name": "ClinicalNotesSummarizer",
+  "project_owner": "Dr. Emily Zhang",
+  "department": "Health Information Management",
+  "use_case": "Internal documentation summarization (non-clinical)",
+  "data_required": "Synthetic notes only",
+  "PHI_status": "No",
+  "modeling_required": "Yes",
+  "risk_tier": "Tier 3",
+  "publication_intent": "No",
+  "SNOMED_ICD_applied": "Yes",
+  "DUA_attached": "Not applicable",
+  "IRB_approval": "Not required",
+  "registry_logged": "Yes",
+  "dissemination_form": "Not applicable"
+}

@@ -1,0 +1,20 @@
+Request_3
+
+{
+  "title": "UT System Scheduling Optimization",
+  "summary": "This project applies predictive analytics to synthetic scheduling data as part of a UT System collaboration.",
+  "project_name": "SmartScheduling",
+  "project_owner": "Dr. Monica Ellis",
+  "department": "Health Operations Analytics",
+  "use_case": "Scheduling optimization across UT institutions",
+  "data_required": "Synthetic data only",
+  "PHI_status": "No",
+  "modeling_required": "Yes",
+  "risk_tier": "Tier 2",
+  "publication_intent": "No",
+  "SNOMED_ICD_applied": "Yes",
+  "DUA_attached": "Yes (joint UT DUA)",
+  "IRB_approval": "Not required",
+  "registry_logged": "Yes",
+  "dissemination_form": "Not applicable"
+}
