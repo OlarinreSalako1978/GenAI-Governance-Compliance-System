@@ -1,5 +1,8 @@
-# GenAI-Powered AI/Data Governance Policy Enforcement
+## ⚠️ **Demo Notice:**  
+> This repository was created by Olarinre Salako, Ph.D., solely for interview demonstration purposes.  
+> It will be archived, made private, or deleted after the interview with UT Southwestern Medical Center.
 
+# GenAI-Powered AI/Data Governance Policy Enforcement
 This repository contains a proof-of-concept (PoC) project demonstrating how Generative AI and Retrieval-Augmented Generation (RAG) can be used to evaluate AI/data project requests against UT Southwestern Medical Center’s AI-Data Governance Policy.
 
 ---

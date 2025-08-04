@@ -1,23 +1,25 @@
 Subject: APPROVED – AI/Data Project Governance Decision
 
-To: Dr. Emily Zhang, Health Information Management
-CC: Dr. John Doe, Director of AI, AI Center of Excellence
+To: Dr. Emily Zhang, Health Information Management, UTSW Medical Center  
+CC: Dr. Olarinre Salako, Director of AI, AI Center of Excellence, UTSW Medical Center
 
 Dear Dr. Zhang,
 
-Your AI/Data project request titled "Internal NLP Summarization Model" has been reviewed and is fully APPROVED. The proposal complies with UTSW's governance policy in the following ways:
-- Risk Tier: Tier 3 – Low Risk (internal NLP tool)
-- SNOMED and ICD-10 standards applied
-- Data Type: Synthetic notes only, no PHI involved
-- No public dissemination planned
-- Project is logged in the Data Use Registry
+I am pleased to inform you that your project request for the "ClinicalNotesSummarizer" has been thoroughly reviewed and is APPROVED. The decision is based on the following compliance with the UT Southwestern AI-Data Governance Policy:
 
-Next Steps:
-- Work with Dr. John Doe to provision the synthetic dataset.
-- Maintain minimal monitoring as per low-risk classification.
-- Ensure internal code review, logging, and limited access are in place.
+- **Data Type and Privacy**: The project uses synthetic notes only, ensuring no PHI is involved, aligning with our standards for the safe use of synthetic data.
+- **Risk Tier Compliance**: Properly classified under Tier 3, which is appropriate for internal NLP tools focused on non-clinical summarization.
+- **SNOMED/ICD Standards**: Adherence to SNOMED and ICD coding standards is confirmed, which is crucial for maintaining data integrity.
+- **Regulatory Compliance**: No IRB approval or DUA is required for this project, consistent with its use of synthetic data and internal application scope.
+- **Documentation and Logging**: The project is already logged in the registry, supporting transparency and traceability.
 
-Thank you for your attention to compliance.
+**Next Steps:**
+1. **Initiate Project Kickoff**: Schedule a meeting with the AI project team and relevant IT support to discuss the project timeline and resource allocation.
+2. **Continuous Monitoring**: Set up a periodic review process to monitor the model's performance and compliance with our AI governance standards.
+3. **Documentation Updates**: Ensure that all documentation, including model cards and version logs, are regularly updated and accessible for audit purposes.
+4. **Stakeholder Engagement**: Continue to engage with internal stakeholders to gather feedback and refine the model as needed.
+
+Thank you for your diligent preparation and adherence to our governance standards. We look forward to seeing the positive impact of the ClinicalNotesSummarizer within our internal operations.
 
 Sincerely,
 Dr. Tammye Garrett

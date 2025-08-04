@@ -1,25 +1,25 @@
 Subject: APPROVED – AI/Data Project Governance Decision
 
-To: Dr. Amina Yusuf, Medical Education
-CC: Dr. John Doe, Director of AI, AI Center of Excellence
+To: Dr. Amina Yusuf, Medical Education, UTSW Medical Center  
+CC: Dr. Olarinre Salako, Director of AI, AI Center of Excellence, UTSW Medical Center
 
 Dear Dr. Yusuf,
 
-Your AI/Data project request titled "GenAI-Based Educational Module Builder" has been reviewed and is APPROVED. The proposal complies with UTSW's governance policy in the following ways:
+I am pleased to inform you that your project request for the "GenAI-Based Educational Module Builder" has been thoroughly reviewed and is APPROVED. The project aligns with UT Southwestern's AI-Data Governance Policy as follows:
 
-- The project aligns with institutional and ethical goals, as it uses AI to generate educational content.
-- The data required for the project is de-identified and has received IRB approval, ensuring compliance with HIPAA and PHI standards.
-- The project has a Data Use Agreement (DUA) in place.
-- The project uses SNOMED CT and ICD codes, ensuring correct mapping and data harmonization.
-- The project is logged in the Data Use Registry, ensuring documentation and auditability.
-- The project does not intend to publicly disseminate the data, thus a Public Dissemination Request Form is not required.
+- **Data Handling**: The use of de-identified and IRB-approved EHR cases ensures compliance with privacy standards.
+- **Risk Management**: Proper classification under Tier 2, indicating moderate risk with appropriate safeguards.
+- **Regulatory Compliance**: Adherence to IRB approval and DUA requirements are in place, which aligns with our governance standards.
+- **Coding Standards**: Application of SNOMED CT and ICD coding standards ensures data harmonization and quality.
+- **Internal Use**: The project is intended for internal LMS use only, eliminating the need for public dissemination review.
 
-Next Steps:
-- Continue collaboration with Dr. John Doe to ensure the AI model is developed and implemented in accordance with UTSW's AI governance policy.
-- Ensure ongoing compliance with the DUA and IRB protocols.
-- Maintain the project log in the Data Use Registry.
+**Next Steps**:
+1. **Project Initiation**: Please coordinate with Dr. Olarinre Salako to finalize the project setup and access necessary resources.
+2. **Documentation**: Ensure all project documentation is updated and maintained in the Data Use Registry.
+3. **Monitoring and Evaluation**: Set up a schedule for periodic review and monitoring of the project to ensure ongoing compliance and effectiveness.
+4. **Stakeholder Engagement**: Continue to engage with relevant stakeholders within the Medical Education department to ensure the educational content meets the learning objectives and institutional standards.
 
-Thank you for your attention to compliance.
+Thank you for your diligent preparation and adherence to our governance policies. We look forward to seeing the positive impact of the AI-Powered Curriculum Builder on our educational programs.
 
 Sincerely,
 Dr. Tammye Garrett

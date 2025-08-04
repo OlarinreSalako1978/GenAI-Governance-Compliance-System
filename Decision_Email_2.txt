@@ -1,28 +1,30 @@
 Subject: NOT APPROVED – AI/Data Project Governance Decision
 
-To: Dr. Ravi Patel, Radiology Department
-CC: Dr. John Doe, Director of AI, AI Center of Excellence
+To: Dr. Ravi Patel, Radiology Department, UTSW Medical Center  
+CC: Dr. Olarinre Salako, Director of AI, AI Center of Excellence, UTSW Medical Center
 
 Dear Dr. Patel,
 
-Following review of your project "Tumor Classifier for Public Presentation", it is NOT APPROVED due to the following policy violations:
+Upon review of your project request titled "Tumor Classifier for Public Presentation," it has been determined that the proposal does not comply with the UT Southwestern AI-Data Governance Policy. Below are the identified violations and recommended actions to address these issues:
 
-- Use of PHI without IRB approval
-- No Data Use Agreement (DUA) in place
-- Public sharing planned without dissemination review
-- No SNOMED CT or ICD-10-CM/PCS coding standards applied
-- Project not logged in the Data Use Registry
+**Violations:**
+- **IRB Approval:** The project involves the use of PHI but lacks IRB approval, which is mandatory for Tier 1 projects.
+- **Data Use Agreement (DUA):** No DUA is attached despite the use of PHI.
+- **SNOMED/ICD Coding:** The project does not apply SNOMED CT or ICD coding standards to the histopathological images.
+- **Registry and Dissemination Compliance:** The project is not logged in the registry, and no dissemination form has been completed for the planned public presentation.
 
-Next Steps:
+**Recommended Corrections:**
+- **Obtain IRB Approval:** Submit the necessary documents for IRB review to ensure compliance with HIPAA and PHI standards.
+- **Attach a DUA:** Complete and attach a DUA to ensure proper handling and use of PHI.
+- **Apply Coding Standards:** Ensure that SNOMED CT and ICD coding standards are applied to the dataset.
+- **Complete Registry and Dissemination Forms:** Log the project in the Data Use Registry and complete a dissemination form to align with public sharing policies.
 
-- Please work with Dr. John Doe to initiate IRB protocol review
-- Submit a DUA through the governance committee
-- Apply de-identification standards before resubmission
-- Apply SNOMED CT and ICD-10-CM/PCS coding standards to your dataset
-- Log the project in the Data Use Registry
-- Submit a Public Dissemination Request Form
+**Next Steps:**
+1. Coordinate with Dr. Olarinre Salako to address the above compliance issues.
+2. Resubmit the project proposal with the necessary modifications and documentation.
+3. Schedule a meeting with the AI Center of Excellence to review the revised proposal and ensure all governance standards are met before proceeding.
 
-We look forward to supporting your project once these compliance gaps are addressed.
+We appreciate your commitment to advancing medical research and innovation at UTSW. Please address these compliance issues promptly to move forward with your project.
 
 Sincerely,
 Dr. Tammye Garrett
