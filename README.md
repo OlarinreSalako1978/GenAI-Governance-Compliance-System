@@ -1,9 +1,8 @@
 ## ⚠️ **Demo Notice:**  
-> This repository was created by Olarinre Salako, Ph.D., solely for interview demonstration purposes.  
-> It will be archived, made private, or deleted after the interview with UT Southwestern Medical Center.
-
+> This repository was created by Olarinre Salako, Ph.D., solely for demonstration purposes.  
+>
 # GenAI-Powered AI/Data Governance Policy Enforcement
-This repository contains a proof-of-concept (PoC) project demonstrating how Generative AI and Retrieval-Augmented Generation (RAG) can be used to evaluate AI/data project requests against UT Southwestern Medical Center’s AI-Data Governance Policy.
+This repository contains a proof-of-concept (PoC) project demonstrating how Generative AI and Retrieval-Augmented Generation (RAG) can be used to evaluate AI/data project requests against a Medical Center’s AI-Data Governance Policy.
 
 ---
 
@@ -22,7 +21,7 @@ To automate early-stage compliance review for:
 |------------------------------------------------------------------------------------|----------------------------------------------------------------------|
 | my_utils.py, AND .env (you need your own key) 							         | API key loader and secrets                                           |
 | GenAI-Powered_Data-AI_Governance_Policy_Enforcement.ipynb                          | Main executable notebook                                             |
-| Draft_of_Data_AI_Governace_Policy_AI_Center_of_Excellence_UTSW_Medical_Center.pdf` | Drafted Policy document based on REAL and Job Description to enforce |
+| A_Draft_of_AI-Data_Governace_Policy_for_a_Medical_Center.pdf` | Drafted Policy document based on REAL AI |
 | Request_1.txt, ..., Request_5.txt in json format				                     | Sample project requests                                              |
 | policy_index.faiss, policy_chunks.pkl                                              | FAISS vector DB and chunked policy - initial outputs of RAG          |
 | Decision_Email_1.txt, ..., Decision_Email_5.txt                                    | Generated response emails                                            |
@@ -57,8 +56,8 @@ To automate early-stage compliance review for:
 
 ## Roles Simulated
 
-- Chief Data Officer (CDO): Dr. Tammye Garrett
-- Director of AI: Dr. John Doe
+- Chief Data Officer (CDO): Dr. Bill Gates
+- Director of AI: Dr. Olarinre Salako
 - Project Owners: Vary by request
 
 ---
