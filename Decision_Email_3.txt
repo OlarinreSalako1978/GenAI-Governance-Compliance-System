@@ -1,27 +1,27 @@
 Subject: APPROVED – AI/Data Project Governance Decision
 
-To: Dr. Monica Ellis, Health Operations Analytics, UTSW Medical Center  
-CC: Dr. Olarinre Salako, Director of AI, AI Center of Excellence, UTSW Medical Center
+To: Dr. Monica Ellis, Health Operations Analytics
+CC: Dr. Olarinre Salako, Director of AI, AI Center of Excellence
 
 Dear Dr. Ellis,
 
-I am pleased to inform you that your project request for "UT System Scheduling Optimization" has been thoroughly reviewed and is APPROVED. The project aligns well with the UT Southwestern AI-Data Governance Policy, specifically adhering to the following standards:
+Your AI/Data project request titled "UT System Scheduling Optimization" has been reviewed and is APPROVED. The proposal complies with the Medical Center's governance policy in the following ways:
 
-- **Data Handling and Compliance**: Utilizes synthetic data, ensuring no PHI is involved, which aligns with our policy on synthetic data generation and privacy enhancement.
-- **Coding Standards**: Adherence to SNOMED CT and ICD-10 standards is confirmed, which is crucial for maintaining consistency and reliability in data handling.
-- **Data Use Agreement**: The inclusion of a joint UT DUA supports compliance with our legal and data sharing frameworks.
-- **Risk Management**: Properly classified under Risk Tier 2, reflecting an accurate assessment of the project’s scope and impact.
-- **Documentation and Auditability**: The project is logged in the Data Use Registry, ensuring traceability and accountability.
+- The project uses synthetic data only, which aligns with our policy on data privacy and security.
+- No PHI is involved, thus no IRB approval is required.
+- The project has a joint UT DUA in place, which is in line with our policy on external collaborations.
+- The project adheres to coding standards by applying SNOMED and ICD-10.
+- The project is logged in the Data Use Registry, ensuring transparency and auditability.
 
-**Next Steps:**
-1. **Collaboration Facilitation**: Coordinate with Dr. Olarinre Salako to ensure alignment with AI modeling standards and access to necessary synthetic data tools.
-2. **Ongoing Monitoring**: Implement regular reviews to monitor the project’s adherence to the approved standards and to address any potential data governance issues that may arise.
-3. **Final Reporting**: Upon project completion, submit a final report outlining outcomes and any lessons learned to the AI Center of Excellence for review and documentation.
+Next Steps:
+- Continue with the project as planned.
+- Ensure that all project activities are logged in the Data Use Registry.
+- Maintain regular communication with the AI Center of Excellence for any support needed.
 
-Thank you for your commitment to upholding our governance standards. We look forward to seeing the positive impacts of your project on scheduling optimization across UT institutions.
+Thank you for your attention to compliance.
 
 Sincerely,
-Dr. Tammye Garrett
+Dr. Bill Gates
 Chief Data Officer
-UT Southwestern Medical Center
 AI Center of Excellence
+The Medical Center

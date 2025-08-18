@@ -1,35 +1,32 @@
 Subject: NOT APPROVED – AI/Data Project Governance Decision
 
-To: Dr. Thomas Rivera, Biomedical Informatics, UTSW Medical Center  
-CC: Dr. Olarinre Salako, Director of AI, AI Center of Excellence, UTSW Medical Center
+To: Dr. Thomas Rivera, Biomedical Informatics Department
+CC: Dr. Olarinre Salako, Director of AI, AI Center of Excellence
 
 Dear Dr. Rivera,
 
-After careful review of your project request "LLM Fine-Tuning for Public Release," it has been determined that the project does not comply with the UT Southwestern AI-Data Governance Policy. Below are the identified violations and recommended actions to align the project with our governance standards:
+Following review of your project "LLM Fine-Tuning for Public Release", it is NOT APPROVED due to the following policy violations:
 
-**Violations:**
-- **IRB Approval:** The project involves the use of PHI and intends for public dissemination, yet no IRB approval has been secured.
-- **Data Use Agreement (DUA):** No DUA is attached despite the use of real patient data.
-- **PHI Handling:** The project uses regex-masked PHI, which may not sufficiently mitigate the risk of re-identification.
-- **SNOMED/ICD Mapping:** The absence of SNOMED or ICD coding standards compromises data integrity and interoperability.
-- **Registry and Dissemination Compliance:** The project is not logged in the registry, and no dissemination form has been completed.
+- Use of PHI without IRB approval
+- No Data Use Agreement (DUA) in place
+- Public sharing planned without dissemination review
+- No SNOMED or ICD coding standards applied
+- No logging in the Data Use Registry
+- No submission of Public Dissemination Request Form
 
-**Recommended Corrections:**
-1. **Secure IRB Approval:** Initiate an IRB review process to ensure compliance with ethical and legal standards concerning PHI.
-2. **Execute a DUA:** Formalize a DUA to clarify the terms of data use and responsibilities.
-3. **Enhance PHI Masking:** Review and possibly enhance de-identification protocols to ensure they meet the stringent requirements necessary for public data release.
-4. **Apply SNOMED/ICD Mapping:** Integrate appropriate coding standards to maintain data integrity and facilitate interoperability.
-5. **Complete Registry and Dissemination Forms:** Log the project in the institutional registry and complete the necessary forms for public dissemination.
+Next Steps:
 
-**Next Steps:**
-- Collaborate with Dr. Olarinre Salako to address the compliance issues outlined.
-- Resubmit the project proposal with the necessary modifications and documentation.
-- Schedule a meeting with the AI Center of Excellence to discuss the revised project plan and ensure alignment with institutional goals and compliance standards.
+- Please work with Dr. Olarinre Salako to initiate IRB protocol review
+- Submit a DUA through the governance committee
+- Apply de-identification standards before resubmission
+- Apply SNOMED or ICD coding standards to your data
+- Log the project in the Data Use Registry
+- Submit a Public Dissemination Request Form
 
-We appreciate your commitment to advancing medical research and innovation at UT Southwestern. Please address these issues promptly so we can move forward with the approval process.
+We look forward to supporting your project once these compliance gaps are addressed.
 
 Sincerely,
-Dr. Tammye Garrett
+Dr. Bill Gates
 Chief Data Officer
-UT Southwestern Medical Center
 AI Center of Excellence
+The Medical Center.
